@@ -1,0 +1,9 @@
+{
+1. python36.dll + python.exe
+2. C program to install the Python application
+3. Folder in AppData or "Program Files"
+4. Link all into EXE
+} = C program that:
+      1. 3)
+      2. 1) - download
+      3. C program that starts "python application.py"
